@@ -10,7 +10,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmswldk)](https://solved.ac/dmswldk/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmswldk)
 
 <br>
 
