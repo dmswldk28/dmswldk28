@@ -10,6 +10,7 @@
 
 
 ### Data
+![JPA](https://img.shields.io/badge/JPA-6DB33F.svg?&style=for-the-badge&logo=JPA&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 <!-- [![eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmswldk28)](https://github.com/dmswldk28) -->
