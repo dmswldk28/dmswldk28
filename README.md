@@ -34,7 +34,6 @@
 
 [![백준티어](https://mazassumnida.wtf/api/generate_badge?boj=dmswldk)](https://solved.ac/dmswldk)
 
-<br>
 ![커밋츄](https://www.comitchu.shop/api/chu/test/dmswldk28)
 
 
