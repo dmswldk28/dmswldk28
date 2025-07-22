@@ -34,7 +34,7 @@
 
 [![백준티어](https://mazassumnida.wtf/api/generate_badge?boj=dmswldk)](https://solved.ac/dmswldk)
 
-![커밋츄](https://www.comitchu.shop/api/chu/test/dmswldk28)
+![커밋츄](https://www.comitchu.shop/api/chu/test/dmswldk28?background=flower.png&chu=c.png)
 
 
 ### 🌱
