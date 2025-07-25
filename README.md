@@ -2,7 +2,10 @@
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdmswldk28&count_bg=%23B187CF&title_bg=%23CBCACA&icon=&icon_color=%23E5E5E5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 <!-- 아이콘 https://simpleicons.org/ -->
 
-[![커밋츄](https://www.comitchu.shop/api/chu/dmswldk28)](https://www.comitchu.shop)
+### 👾 MY COMITCHU 👾
+<a href="https://www.comitchu.shop" target="_blank">
+  <img src="https://www.comitchu.shop/api/chu/dmswldk28" alt="커밋츄" width="300" height="200" />
+</a>
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
