@@ -4,7 +4,7 @@
 
 ### 👾 MY COMITCHU 👾
 <a href="https://www.comitchu.shop" target="_blank">
-  <img src="https://www.comitchu.shop/api/chu/dmswldk28" alt="커밋츄"/>
+  <img src="https://www.comitchu.shop/api/chu/dmswldk28" width=150 height=100 alt="커밋츄"/>
 </a>
 
 ### Backend
