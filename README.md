@@ -3,9 +3,10 @@
 <!-- 아이콘 https://simpleicons.org/ -->
 
 ### 👾 MY COMITCHU 👾
-<a href="https://www.comitchu.shop" target="_blank">
+<!-- <a href="https://www.comitchu.shop" target="_blank">
   <img src="https://www.comitchu.shop/api/chu/dmswldk28" width=150 height=100 alt="커밋츄"/>
-</a>
+</a> -->
+*Until we meet again… 💫*
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
